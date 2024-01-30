@@ -476,7 +476,7 @@ while ($true) {
         Write-Host $cent -ForegroundColor $colz[$i % $colz.Count]
     }
     $choice = Read-Host -Prompt "Enter your choice"
-
+# ascii and this designing made by gomez not by evilbytecode or codepulze.
     switch ($choice) {
         '1' {
             Invoke-TokenCheck
