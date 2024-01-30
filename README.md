@@ -57,6 +57,14 @@ powershell -File .\Archangel.ps1
 ```
 ## Disclaimer
 
+
+## Grabber Features:
+- Cookies
+- Crypto
+- Amsi Patch
+- Clipboard
+- Ands lots of more check out: https://github.com/EvilBytecode/WindKitty-Powershell-Grabber
+
 |Archangel was made for Educational purposes|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
